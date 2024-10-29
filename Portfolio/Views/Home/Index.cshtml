@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model HomeViewModel
+
+<partial name="_Personal" model=Model.P />
+<partial name="_Fluff" />
+<partial name="_Proyectos" model=Model.Proyectos />

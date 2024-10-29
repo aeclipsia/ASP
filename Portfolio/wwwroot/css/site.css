@@ -1,0 +1,60 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.perfil {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.fullstack {
+    width: 500px;
+    height: auto;
+    margin: 0.5rem;
+}
+
+.fluff{
+    background-color: #212429;
+    color: white;
+    text-align: center;
+    margin: 1rem 0;
+    padding: 3rem 1rem 6rem 1rem;
+}
+
+.fluff-text{
+    font-size: 1.4rem;
+}
+
+.card{
+    height: 200px;
+}
+
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+
+ul{
+    text-align: left
+}
