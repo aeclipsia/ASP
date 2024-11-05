@@ -28,3 +28,4 @@ C:\Users\admin\Desktop\ASP\Portfolio\obj\Debug\net8.0\refint\Portfolio.dll
 C:\Users\admin\Desktop\ASP\Portfolio\obj\Debug\net8.0\Portfolio.pdb
 C:\Users\admin\Desktop\ASP\Portfolio\obj\Debug\net8.0\Portfolio.genruntimeconfig.cache
 C:\Users\admin\Desktop\ASP\Portfolio\obj\Debug\net8.0\ref\Portfolio.dll
+C:\Users\admin\Desktop\ASP\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json

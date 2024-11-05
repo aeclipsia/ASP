@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.AssemblyInfo.cs
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.sourcelink.json
