@@ -1,8 +1,9 @@
-﻿using Taller.Models;
+﻿using Taller.Interfaces;
+using Taller.Models;
 
 namespace Taller.Services
 {
-    public class CochesService
+    public class CochesService : ICoches
     {
         public List<CocheModel> getCoches()
         {
@@ -14,6 +15,7 @@ namespace Taller.Services
                     Matricula = "1992 RXG",
                     Marca = "Mazda",
                     Year = 1992,
+                    ImagenCoche = "/Imagenes/car.jpg",
                     Dueno = new OwnerModel()
                     {
                         Nombre = "Jared",
@@ -37,6 +39,7 @@ namespace Taller.Services
                     Matricula = "2018 FGH",
                     Marca = "Honda",
                     Year = 2018,
+                    ImagenCoche = "/Imagenes/car.jpg",
                     Dueno = new OwnerModel()
                     {
                         Nombre = "Laura",
@@ -60,6 +63,7 @@ namespace Taller.Services
                     Matricula = "2020 ZXY",
                     Marca = "Ford",
                     Year = 2020,
+                    ImagenCoche = "/Imagenes/car.jpg",
                     Dueno = new OwnerModel()
                     {
                         Nombre = "Carlos",
@@ -83,6 +87,7 @@ namespace Taller.Services
                     Matricula = "2015 ADB",
                     Marca = "Volkswagen",
                     Year = 2015,
+                    ImagenCoche = "/Imagenes/car.jpg",
                     Dueno = new OwnerModel()
                     {
                         Nombre = "Marta",

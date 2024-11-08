@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PortfolioServicios/1.0.0": {
+        "runtime": {
+          "PortfolioServicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PortfolioServicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

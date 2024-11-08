@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Taller.Interfaces;
 using Taller.Models;
 
 namespace Taller.Controllers
@@ -7,7 +8,7 @@ namespace Taller.Controllers
     public class HomeController : Controller
     {
 
-        /*Taller con mecánicos[], coches[], arreglos[], nombre, direción, teléfono*/
+        /*Taller con mecánicos[], coches[], (arreglos[]), nombre, direción, teléfono*/
         /*Mecánico con (id), nombre, apellidos, DNI, fecha alta, email, teléfono, foto*/
         /*Coche con modelo, matrícula, marca, año, dueño[], foto*/
         /*Dueño con nombre apellidos, dni, direccion[], email, telefono*/
@@ -19,14 +20,22 @@ namespace Taller.Controllers
 
         /*Controlador para home, mecánicos, coches, (arreglos)*/
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ITaller data;
+        public HomeController(ITaller source)
         {
-            
+            this.data = source;
         }
 
         public IActionResult Index()
         {
-            return View();
+            TallerModel t = new()
+            {
+                TallerNombre = this.data.GetTaller().TallerNombre,
+                TallerDir = this.data.GetTaller().TallerDir,
+                TallerTel = this.data.GetTaller().TallerTel,
+            };
+
+            return View(t);
         }
     }
 }

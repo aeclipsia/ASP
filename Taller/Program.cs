@@ -1,7 +1,13 @@
+using Taller.Interfaces;
+using Taller.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<ITaller, TallerService>();
+builder.Services.AddTransient<ICoches, CochesService>();
+builder.Services.AddTransient<IMecanicos, MecanicosService>();
 
 var app = builder.Build();
 
