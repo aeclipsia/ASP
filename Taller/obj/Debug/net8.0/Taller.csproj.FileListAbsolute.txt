@@ -29,3 +29,34 @@ C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\refint\Taller.dll
 C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.pdb
 C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\Taller.genruntimeconfig.cache
 C:\Users\admin\Desktop\ASP\Taller\obj\Debug\net8.0\ref\Taller.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\appsettings.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\Taller.staticwebassets.runtime.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\Taller.exe
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\Taller.deps.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\Taller.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\Taller.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\bin\Debug\net8.0\Taller.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.RazorAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.RazorAssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\staticwebassets\msbuild.Taller.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\staticwebassets\msbuild.build.Taller.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Taller.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Taller.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\scopedcss\bundle\Taller.styles.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\scopedcss\projectbundle\Taller.bundle.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\refint\Taller.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\Taller.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\obj\Debug\net8.0\ref\Taller.dll

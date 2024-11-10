@@ -1,0 +1,22 @@
+﻿@model List<CocheModel>
+@{
+}
+<div class="car-container">
+    @foreach (var car in Model)
+    {
+        <div class="car-wrapper">
+            <div class="car-card">
+                <img src="@car.ImagenCoche" class="car-img" />
+                <div class="car-details">
+                    <h5 class="car-model">@car.Marca @car.Modelo</h5>
+                    <p class="car-year">@car.Year</p>
+                </div>
+
+                <div class="pop-details">
+                    <h5>Propiedad de: @car.Dueno.Nombre @car.Dueno.Apellido</h5>
+                    <p>@car.Dueno.Dni</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

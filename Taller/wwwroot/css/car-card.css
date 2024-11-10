@@ -1,0 +1,62 @@
+﻿.car-container{
+    columns: 300px;
+    gap: 20px;
+}
+
+.car-wrapper {
+    break-inside: avoid;
+    transition: all 0.3s ease;
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    animation: fadeIn 0.6s ease backwards;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.car-card{
+    background: #333;
+}
+
+.car-wrapper:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.car-img{
+    width: 100%;
+}
+
+.car-details {
+    padding: 5px 15px;
+    color: #f4f4f4;
+}
+
+.car-model {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+}
+
+.pop-details {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s ease-in-out;
+}
+
+.car-card:hover > .pop-details{
+    opacity: 1;
+}

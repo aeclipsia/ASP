@@ -9,43 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Taller
 build_property.RootNamespace = Taller
-build_property.ProjectDir = C:\Users\admin\Desktop\ASP\Taller\
+build_property.ProjectDir = C:\Users\aeclipsia\Desktop\School Files\ASP\Taller\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\admin\Desktop\ASP\Taller
+build_property.MSBuildProjectDirectory = C:\Users\aeclipsia\Desktop\School Files\ASP\Taller
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/Home/Index.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/Coches/Coches.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaGVzXENvY2hlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/Home/Privacy.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/Mecanicos/Mecanicos.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/Mecanicos/Mecanicos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVjYW5pY29zXE1lY2FuaWNvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/Shared/Error.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/_ViewImports.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/_ViewStart.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/ASP/Taller/Views/Shared/_Layout.cshtml]
+[C:/Users/aeclipsia/Desktop/School Files/ASP/Taller/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fq2vbvnu55

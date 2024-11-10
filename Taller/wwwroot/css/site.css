@@ -8,8 +8,28 @@ html {
   }
 }
 
+.navbar{
+    border-bottom: solid 1px #ff4d4d;
+}
+
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.navbar-brand {
+    transition: all 0.15s ease-in-out;
+}
+
+.navbar-brand:hover{
+    transform: scale(1.1);
+}
+
+.nav-link{
+    transition: all 0.15s ease-in-out;
+}
+
+.nav-link:hover{
+    translate: 0 -2px;
 }
 
 html {
@@ -18,5 +38,16 @@ html {
 }
 
 body {
+    background: #444;
   margin-bottom: 60px;
+}
+
+a{
+    text-decoration: none;
+    color: #a2a2ff;
+    transition: all 0.15s ease-in-out;
+}
+
+a:hover{
+    color: #f4f4f4;
 }

@@ -4,7 +4,40 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1>@Model.TallerNombre</h1>
-    <h4>@Model.TallerDir.Calle @Model.TallerDir.Numero</h4>
-</div>
+<section class="hero">
+    <div class="hero-content">
+        <h1>Servicio Automotriz de Confianza</h1>
+        <p>Servicio profesional con precios transparentes y satisfacción garantizada</p>
+        <a href="#contacto" class="cta-button">Agendar Servicio</a>
+    </div>
+</section>
+
+<section class="services" id="servicios">
+    <h2>Nuestros Servicios</h2>
+    <div class="service-grid">
+        <div class="service-card"> 
+            <h3>Diagnóstico</h3>
+            <p>Herramientas de diagnóstico de última generación para identificar cualquier problema en tu vehículo</p>
+        </div>
+        <div class="service-card">
+            <h3>Reparaciones</h3> 
+            <p>Reparaciones expertas para todas las marcas y modelos usando refacciones de calidad</p>
+        </div>
+        <div class="service-card">
+            <h3>Mantenimiento</h3>
+            <p>Mantenimiento regular para mantener tu vehículo funcionando en óptimas condiciones</p>
+        </div>
+        <div class="service-card">
+            <h3>Servicio de Llantas</h3>
+            <p>Servicio completo de llantas incluyendo rotación, balanceo y reemplazo</p>
+        </div>
+    </div>
+
+    <div class="contact-info" id="contacto">
+        <h2>Encuéntranos</h2>
+        <p><span class="highlight">Dirección:</span> @Model.TallerDir.Calle, @Model.TallerDir.Numero, @Model.TallerDir.Zip, @Model.TallerDir.Poblacion, @Model.TallerDir.Provincia</p>
+        <p><span class="highlight">WhatsApp:</span> @Model.TallerTel</p>
+        <p><span class="highlight">Horario:</span> Lunes a Sábado de 8:00 AM a 6:00 PM</p>
+        <p><span class="highlight">Email:</span> contacto@dawvroom.com</p>
+    </div>
+</section>

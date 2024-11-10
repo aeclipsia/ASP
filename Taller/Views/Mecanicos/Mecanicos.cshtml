@@ -1,15 +1,16 @@
 ﻿@model List<MecanicoModel>
 @{
 }
-<div class="row row-cols-1 row-cols-md-4 g-4">
-    @foreach (var mec in Model)
+<div class="container py-4">
+    @foreach (var mec in Model) 
     {
         <div class="col">
-            <div class="card h-100">
+            <div class="card mech h-100">
                 <img src="@mec.FotoMecanico" class="card-img-top" />
                 <div class="card-body">
                     <h5 class="card-title">@mec.Nombre @mec.Apellido</h5>
-                    <p class="card-text">@mec.Telefono</p>
+                    <p class="card-text"><i class="fa-solid fa-phone"></i> @mec.Telefono</p>
+                    <p class="card-text"><i class="fa-solid fa-envelope"></i> <a href="mailto:@mec.Correo">@mec.Correo</a></p>
                 </div>
             </div>
         </div>

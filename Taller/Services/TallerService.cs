@@ -5,8 +5,6 @@ namespace Taller.Services
 {
     public class TallerService : ITaller
     {
-        public MecanicosService mecanicos;
-        public CochesService coches;
         public TallerModel GetTaller()
         {
             return new TallerModel() {
@@ -18,7 +16,8 @@ namespace Taller.Services
                     Zip = "28042",
                     Provincia = "Madrid",
                     Poblacion = "Madrid"
-                }
+                },
+                TallerTel = "666123456"
             };
         }
     }
