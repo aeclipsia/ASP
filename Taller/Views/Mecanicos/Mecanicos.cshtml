@@ -1,18 +1,30 @@
 ﻿@model List<MecanicoModel>
 @{
 }
-<div class="container py-4">
-    @foreach (var mec in Model) 
-    {
-        <div class="col">
-            <div class="card mech h-100">
-                <img src="@mec.FotoMecanico" class="card-img-top" />
-                <div class="card-body">
-                    <h5 class="card-title">@mec.Nombre @mec.Apellido</h5>
-                    <p class="card-text"><i class="fa-solid fa-phone"></i> @mec.Telefono</p>
-                    <p class="card-text"><i class="fa-solid fa-envelope"></i> <a href="mailto:@mec.Correo">@mec.Correo</a></p>
-                </div>
-            </div>
-        </div>
-    }
-</div>
+
+
+<table class="table">
+    <thead>
+        <th scope="col">ID</th>
+        <th scope="col">Foto</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Apellido</th>
+        <th scope="col">Teléfono</th>
+        <th scope="col">Correo</th>
+        <th scope="col">Fecha de Alta</th>
+    </thead>
+    <tbody>
+        @foreach (var mec in Model)
+        {
+            <tr>
+                <th scope="row">@mec.Id</th>
+                <td><img src="@mec.FotoMecanico" class="table-image"/></td>
+                <td>@mec.Nombre</td>
+                <td>@mec.Apellido</td>
+                <td>@mec.Telefono</td>
+                <td>@mec.Correo</td>
+                <td>@mec.FechaAlta</td>
+            </tr>
+        }
+    </tbody>
+</table>

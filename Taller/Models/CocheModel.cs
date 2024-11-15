@@ -8,5 +8,6 @@
         public int Year { get; set; }
         public String ImagenCoche { get; set; }
         public OwnerModel Dueno { get; set; }
+        public MecanicoModel Mecanico { get; set; }
     }
 }

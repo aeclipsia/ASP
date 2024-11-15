@@ -17,7 +17,7 @@ namespace Taller.Services
                     Correo = "mar.gamo@gmail.com",
                     Telefono = "667787654",
                     Id = "124A",
-                    FechaAlta = DateTime.Now,
+                    FechaAlta = new DateTime(2012,05,12,11,15,37),
                     FotoMecanico = "/imagenes/mec2.jpg"
                 },
                 new MecanicoModel()
@@ -28,7 +28,7 @@ namespace Taller.Services
                     Correo = "brbx@gmail.com",
                     Telefono = "667987454",
                     Id = "114A",
-                    FechaAlta = DateTime.Now,
+                    FechaAlta = new DateTime(2017,12,19,12,20,04),
                     FotoMecanico = "/imagenes/mec1.jpg"
                 },
                 new MecanicoModel()
@@ -39,7 +39,7 @@ namespace Taller.Services
                     Correo = "ggcruz@gmail.com",
                     Telefono = "663619651",
                     Id = "114A",
-                    FechaAlta = DateTime.Now,
+                    FechaAlta = new DateTime(2020,03,06,09,01,03),
                     FotoMecanico = "/imagenes/mec3.jpg"
                 },
                 new MecanicoModel()
@@ -50,7 +50,7 @@ namespace Taller.Services
                     Correo = "pedro.tovar@gmail.com",
                     Telefono = "663860147",
                     Id = "114A",
-                    FechaAlta = DateTime.Now,
+                    FechaAlta = new DateTime(2022,10,10,10,01,55),
                     FotoMecanico = "/imagenes/mec4.jpg"
                 }
             };
