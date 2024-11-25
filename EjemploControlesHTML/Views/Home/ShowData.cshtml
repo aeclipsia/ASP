@@ -1,0 +1,19 @@
+﻿@model DatosViewModel
+
+@{
+}
+
+<div class="md-3">
+    <p class="text-body">Sexo: @Model.sexo</p>
+        @if (Model.aficiones != null)
+        {
+        <ul class="text-body">
+            Aficiones:
+            @foreach (var i in Model.aficiones)
+            {
+                <li class="text-body">@i</li>
+            }
+        </ul>
+        }
+    <p class="text-body">Ciclo: @Model.ciclo</p>
+</div>

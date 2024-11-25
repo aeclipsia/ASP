@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="md-3">
+    <h1>Contáctanos</h1>
+    <form asp-controller="Home" asp-action="Contact">
+        <label for="Nombre" class="form-label">Nombre</label>
+        <input type="text" name="Nombre" class="form-control" placeholder="Introduce nombre y apellido" />
+        <label for="Email" class="form-label">Email</label>
+        <input typeof="text" name="Email" class="form-control" placeholder="ejemplo@email.com" />
+        <label for="Mensaje" class="form-label">Mensaje</label>
+        <textarea name="Mensaje" class="form-control"></textarea>
+        <br />
+        <button type="submit" class="btn-dark">Submit</button>
+    </form>
+</div>

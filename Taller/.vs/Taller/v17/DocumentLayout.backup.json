@@ -7,16 +7,52 @@
       "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:views\\coches\\coches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\services\\mecanicosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:services\\mecanicosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\views\\mecanicos\\mecanicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:views\\mecanicos\\mecanicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\services\\cochesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:services\\cochesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\services\\tallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:services\\tallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\models\\tallermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:models\\tallermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\controllers\\cochescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:controllers\\cochescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\interfaces\\icoches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:interfaces\\icoches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\models\\cochemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:models\\cochemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\models\\personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:models\\personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\models\\ownermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:models\\ownermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\models\\mecanicomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:models\\mecanicomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +66,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T10:04:41.8Z",
+              "DocumentIndex": 4,
+              "Title": "TallerService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\TallerService.cs",
+              "RelativeDocumentMoniker": "Services\\TallerService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\TallerService.cs",
+              "RelativeToolTip": "Services\\TallerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:45:33.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mecanicos.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Mecanicos\\Mecanicos.cshtml",
-              "RelativeDocumentMoniker": "Views\\Mecanicos\\Mecanicos.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Mecanicos\\Mecanicos.cshtml",
-              "RelativeToolTip": "Views\\Mecanicos\\Mecanicos.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T10:05:43.173Z",
+              "WhenOpened": "2024-11-15T08:40:32.493Z",
               "EditorCaption": ""
             },
             {
@@ -62,29 +98,135 @@
               "RelativeDocumentMoniker": "Views\\Coches\\Coches.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Coches\\Coches.cshtml",
               "RelativeToolTip": "Views\\Coches\\Coches.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T10:14:41.66Z",
+              "WhenOpened": "2024-11-12T10:23:57.115Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 236,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MecanicosService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\MecanicosService.cs",
-              "RelativeDocumentMoniker": "Services\\MecanicosService.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\MecanicosService.cs",
-              "RelativeToolTip": "Services\\MecanicosService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:05:51.896Z",
+              "WhenOpened": "2024-11-12T10:23:14.502Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CochesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Controllers\\CochesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CochesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Controllers\\CochesController.cs",
+              "RelativeToolTip": "Controllers\\CochesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:21:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:21:13.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICoches.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Interfaces\\ICoches.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICoches.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Interfaces\\ICoches.cs",
+              "RelativeToolTip": "Interfaces\\ICoches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:18:58.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CochesService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\CochesService.cs",
+              "RelativeDocumentMoniker": "Services\\CochesService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\CochesService.cs",
+              "RelativeToolTip": "Services\\CochesService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:18:22.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TallerModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\TallerModel.cs",
+              "RelativeDocumentMoniker": "Models\\TallerModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\TallerModel.cs",
+              "RelativeToolTip": "Models\\TallerModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:18:09.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonaModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\PersonaModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonaModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\PersonaModel.cs",
+              "RelativeToolTip": "Models\\PersonaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:18:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MecanicoModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\MecanicoModel.cs",
+              "RelativeDocumentMoniker": "Models\\MecanicoModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\MecanicoModel.cs",
+              "RelativeToolTip": "Models\\MecanicoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:17:52.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OwnerModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\OwnerModel.cs",
+              "RelativeDocumentMoniker": "Models\\OwnerModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\OwnerModel.cs",
+              "RelativeToolTip": "Models\\OwnerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:17:48.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CocheModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\CocheModel.cs",
+              "RelativeDocumentMoniker": "Models\\CocheModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\CocheModel.cs",
+              "RelativeToolTip": "Models\\CocheModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:17:42.858Z"
             }
           ]
         }
