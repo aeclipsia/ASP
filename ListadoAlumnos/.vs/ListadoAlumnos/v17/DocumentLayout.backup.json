@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\models\\alumnomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:models\\alumnomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\interfaces\\ialumnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:interfaces\\ialumnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|c:\\users\\admin\\desktop\\asp\\listadoalumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AF8FC7-CCD1-4D12-A844-3A292FF13A82}|ListadoAlumnos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:06:27.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Models\\AlumnoModel.cs",
+              "RelativeDocumentMoniker": "Models\\AlumnoModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Models\\AlumnoModel.cs",
+              "RelativeToolTip": "Models\\AlumnoModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:58:44.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:55:29.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:55:17.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:55:05.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:34:06.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlumnosService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Interfaces\\IAlumnosService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAlumnosService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Interfaces\\IAlumnosService.cs",
+              "RelativeToolTip": "Interfaces\\IAlumnosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:07:53.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T10:17:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T10:17:23.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:16:50.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

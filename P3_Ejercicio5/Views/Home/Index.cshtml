@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Alumno>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="jumbotron">
+
+<h1><a asp-action="Add">Nuevo Alumno</a></h1>
+<br /><br />
+<table class="table">
+
+    <thead>
+        <tr>
+        <th scope="col">NOMBRE</th>
+        <th scope="col">APELLIDOS</th>
+        <th scope="col">TELÉFONO</th>
+        <th></th>
+        <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            @{
+                int id = 1;
+            }
+            @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellidos</td>
+                <td>@item.Telefono</td>
+                <td></td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@id">Editar</a> | <a asp-action="Delete" asp-route-id="@id">Borrar</a> | <a asp-action="Details" asp-route-id="@id">Ver</a>
+                </td>
+            </tr>
+            id++;
+        }
+        
+
+    </tbody>
+
+</table>
+</div>

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|c:\\users\\admin\\desktop\\asp\\taller\\views\\coches\\coches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0BDF54B-3E4E-4B09-A3F9-F291B29285AF}|Taller.csproj|solutionrelative:views\\coches\\coches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -62,11 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T09:13:57.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TallerService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\TallerService.cs",
               "RelativeDocumentMoniker": "Services\\TallerService.cs",
@@ -74,12 +91,11 @@
               "RelativeToolTip": "Services\\TallerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T08:45:33.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T08:45:33.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -87,12 +103,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T08:40:32.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T08:40:32.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Coches.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Views\\Coches\\Coches.cshtml",
               "RelativeDocumentMoniker": "Views\\Coches\\Coches.cshtml",
@@ -100,12 +115,11 @@
               "RelativeToolTip": "Views\\Coches\\Coches.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T10:23:57.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:23:57.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -113,12 +127,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:23:14.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:23:14.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CochesController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Controllers\\CochesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CochesController.cs",
@@ -126,12 +139,11 @@
               "RelativeToolTip": "Controllers\\CochesController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:21:44.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:21:44.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -139,12 +151,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:21:13.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:21:13.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ICoches.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Interfaces\\ICoches.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICoches.cs",
@@ -156,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CochesService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Services\\CochesService.cs",
               "RelativeDocumentMoniker": "Services\\CochesService.cs",
@@ -164,12 +175,11 @@
               "RelativeToolTip": "Services\\CochesService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:18:22.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:18:22.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TallerModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\TallerModel.cs",
               "RelativeDocumentMoniker": "Models\\TallerModel.cs",
@@ -177,12 +187,11 @@
               "RelativeToolTip": "Models\\TallerModel.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:18:09.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:18:09.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PersonaModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\PersonaModel.cs",
               "RelativeDocumentMoniker": "Models\\PersonaModel.cs",
@@ -194,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MecanicoModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\MecanicoModel.cs",
               "RelativeDocumentMoniker": "Models\\MecanicoModel.cs",
@@ -206,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "OwnerModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\OwnerModel.cs",
               "RelativeDocumentMoniker": "Models\\OwnerModel.cs",
@@ -218,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CocheModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Taller\\Models\\CocheModel.cs",
               "RelativeDocumentMoniker": "Models\\CocheModel.cs",

@@ -1,0 +1,25 @@
+﻿@model Alumno
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Información Alumno</h1>
+<br /><br />
+<div class="card" >
+  <div class="card-body">
+    <h4 class="card-title">Detalles</h4>
+    <h5 class="card-subtitle mb-2 text-muted">Datos del alumno seleccionado</h5>
+    <br />
+     <ul class="list-group list-group-flush">
+        <li class="list-group-item">DNI: @Model.DNI</li>
+        <li class="list-group-item">Nombre: @Model.Nombre</li>
+        <li class="list-group-item">Apellidos: @Model.Apellidos</li>
+        <li class="list-group-item">Teléfono: @Model.Telefono</li>
+        <li class="list-group-item">Curso: @Model.Curso</li>
+        <li class="list-group-item">Edad: @Model.Edad</li>
+  </ul>
+  <br /><br />
+    <a asp-action="Index" class="card-link">Volver</a>
+  </div>
+</div>
