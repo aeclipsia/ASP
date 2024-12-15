@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\H3_ej1.props" />
+</Project>

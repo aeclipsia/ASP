@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\aeclipsia\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
+      "projectUniqueName": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
       "projectName": "PortfolioServicios",
-      "projectPath": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\obj\\",
+      "projectPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
+      "packagesPath": "C:\\Users\\aeclipsia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aeclipsia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

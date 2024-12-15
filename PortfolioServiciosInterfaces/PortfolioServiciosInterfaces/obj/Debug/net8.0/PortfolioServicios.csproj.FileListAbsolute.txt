@@ -29,3 +29,34 @@ C:\Users\admin\Desktop\D. SERVIDOR\ASP.NET Core\PortfolioServicios\obj\Debug\net
 C:\Users\admin\Desktop\D. SERVIDOR\ASP.NET Core\PortfolioServicios\obj\Debug\net8.0\PortfolioServicios.pdb
 C:\Users\admin\Desktop\D. SERVIDOR\ASP.NET Core\PortfolioServicios\obj\Debug\net8.0\PortfolioServicios.genruntimeconfig.cache
 C:\Users\admin\Desktop\D. SERVIDOR\ASP.NET Core\PortfolioServicios\obj\Debug\net8.0\ref\PortfolioServicios.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\appsettings.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\PortfolioServicios.staticwebassets.runtime.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\PortfolioServicios.exe
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\PortfolioServicios.deps.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\PortfolioServicios.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\PortfolioServicios.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\bin\Debug\net8.0\PortfolioServicios.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.RazorAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.RazorAssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\staticwebassets\msbuild.PortfolioServicios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\staticwebassets\msbuild.build.PortfolioServicios.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PortfolioServicios.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PortfolioServicios.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\scopedcss\bundle\PortfolioServicios.styles.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\scopedcss\projectbundle\PortfolioServicios.bundle.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\refint\PortfolioServicios.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\PortfolioServicios.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\PortfolioServiciosInterfaces\PortfolioServiciosInterfaces\obj\Debug\net8.0\ref\PortfolioServicios.dll

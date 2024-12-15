@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Formulario";
+}
+
+<h2>Formulario </h2>
+<form asp-action="ProcesarDatos" method="post" >
+    <!-- procesar Datos es la accion que tiene q estar en HomeController -->
+    <div>
+        <label>Nombre:</label>
+        <input type="text" name="Nombre" required />
+    </div>
+    <div>
+        <label>Edad:</label>
+        <input type="number" name="Edad" required />
+    </div>
+    <button type="submit" class="btn-dark">Enviar</button>
+
+</form>

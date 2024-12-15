@@ -1,0 +1,122 @@
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\H3_ej1.staticwebassets.runtime.json
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\H3_ej1.exe
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\H3_ej1.deps.json
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\H3_ej1.runtimeconfig.json
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\H3_ej1.dll
+C:\Users\admin\source\repos\H3_ej1\bin\Debug\net8.0\H3_ej1.pdb
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfo.cs
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.sourcelink.json
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.H3_ej1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.build.H3_ej1.props
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.H3_ej1.props
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.H3_ej1.props
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\scopedcss\bundle\H3_ej1.styles.css
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\scopedcss\projectbundle\H3_ej1.bundle.scp.css
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.dll
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\refint\H3_ej1.dll
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.pdb
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\H3_ej1.genruntimeconfig.cache
+C:\Users\admin\source\repos\H3_ej1\obj\Debug\net8.0\ref\H3_ej1.dll
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\appsettings.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.staticwebassets.runtime.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.exe
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.deps.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.runtimeconfig.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.dll
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.pdb
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfoInputs.cache
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfo.cs
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.csproj.CoreCompileInputs.cache
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cache
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cs
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.H3_ej1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.build.H3_ej1.props
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.H3_ej1.props
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.H3_ej1.props
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\scopedcss\bundle\H3_ej1.styles.css
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\scopedcss\projectbundle\H3_ej1.bundle.scp.css
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.dll
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\refint\H3_ej1.dll
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.pdb
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.genruntimeconfig.cache
+C:\Users\Pdp\Downloads\Entornos-master\ASP_.NET\H3_ej1\obj\Debug\net8.0\ref\H3_ej1.dll
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\appsettings.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.staticwebassets.runtime.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.exe
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.deps.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.runtimeconfig.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.dll
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\bin\Debug\net8.0\H3_ej1.pdb
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfoInputs.cache
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfo.cs
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.csproj.CoreCompileInputs.cache
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cache
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cs
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.H3_ej1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.build.H3_ej1.props
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.H3_ej1.props
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.H3_ej1.props
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\scopedcss\bundle\H3_ej1.styles.css
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\scopedcss\projectbundle\H3_ej1.bundle.scp.css
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.dll
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\refint\H3_ej1.dll
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.pdb
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\H3_ej1.genruntimeconfig.cache
+C:\Users\Pdp\Desktop\ASP_.NET\H3_ej1\obj\Debug\net8.0\ref\H3_ej1.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\appsettings.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\H3_ej1.staticwebassets.runtime.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\H3_ej1.exe
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\H3_ej1.deps.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\H3_ej1.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\H3_ej1.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\bin\Debug\net8.0\H3_ej1.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.RazorAssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.H3_ej1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.build.H3_ej1.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.H3_ej1.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.H3_ej1.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\scopedcss\bundle\H3_ej1.styles.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\scopedcss\projectbundle\H3_ej1.bundle.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\refint\H3_ej1.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\H3_ej1.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\H3_ej1-20241215T200717Z-001\H3_ej1\obj\Debug\net8.0\ref\H3_ej1.dll

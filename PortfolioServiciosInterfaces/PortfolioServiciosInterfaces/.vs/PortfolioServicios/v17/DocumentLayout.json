@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\",
+  "WorkspaceRootPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\services\\repositorioportfoliobbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:services\\repositorioportfoliobbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\services\\repositorioportfoliojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:services\\repositorioportfoliojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\services\\repositorioportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\services\\repositorioportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:services\\repositorioportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\interfaces\\irepositorioportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:interfaces\\irepositorioportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\services\\repositorioportfoliojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:services\\repositorioportfoliojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\portfolioservicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:portfolioservicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\views\\home\\_proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\services\\repositorioportfoliobbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:services\\repositorioportfoliobbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\interfaces\\irepositorioportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:interfaces\\irepositorioportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\portfolioservicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:portfolioservicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\views\\home\\_proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:views\\home\\_proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\admin\\desktop\\d. servidor\\asp.net core\\portfolioserviciosinterfaces\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\portfolioserviciosinterfaces\\portfolioserviciosinterfaces\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0390F24B-B6CF-4B30-8976-6D591CC65BCB}|PortfolioServicios.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,37 +82,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IRepositorioPortfolio.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Interfaces\\IRepositorioPortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Interfaces\\IRepositorioPortfolio.cs",
               "RelativeDocumentMoniker": "Interfaces\\IRepositorioPortfolio.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Interfaces\\IRepositorioPortfolio.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Interfaces\\IRepositorioPortfolio.cs",
               "RelativeToolTip": "Interfaces\\IRepositorioPortfolio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:19:45.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:19:45.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RepositorioPortfolioBBDD.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioBBDD.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioBBDD.cs",
               "RelativeDocumentMoniker": "Services\\RepositorioPortfolioBBDD.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioBBDD.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioBBDD.cs",
               "RelativeToolTip": "Services\\RepositorioPortfolioBBDD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:15:15.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:15:15.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RepositorioPortfolio.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolio.cs",
               "RelativeDocumentMoniker": "Services\\RepositorioPortfolio.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolio.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolio.cs",
               "RelativeToolTip": "Services\\RepositorioPortfolio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,23 +119,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-05T08:56:54.762Z"
+              "WhenOpened": "2024-11-05T08:56:54.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_Proyectos.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\_Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\_Proyectos.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\_Proyectos.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\_Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\_Proyectos.cshtml",
               "RelativeToolTip": "Views\\Home\\_Proyectos.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -147,9 +146,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_Presentacion.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\_Presentacion.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\_Presentacion.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\_Presentacion.cshtml",
               "RelativeToolTip": "Views\\Home\\_Presentacion.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -157,37 +156,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T08:55:35.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:09:13.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:09:13.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RepositorioPortfolioJSON.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioJSON.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioJSON.cs",
               "RelativeDocumentMoniker": "Services\\RepositorioPortfolioJSON.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioJSON.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Services\\RepositorioPortfolioJSON.cs",
               "RelativeToolTip": "Services\\RepositorioPortfolioJSON.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -208,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PortfolioServicios.csproj",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
               "RelativeDocumentMoniker": "PortfolioServicios.csproj",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\PortfolioServicios.csproj",
               "RelativeToolTip": "PortfolioServicios.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -222,9 +220,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_Habilidades.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\_Habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\_Habilidades.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\_Habilidades.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Home\\_Habilidades.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Home\\_Habilidades.cshtml",
               "RelativeToolTip": "Views\\Home\\_Habilidades.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -232,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Models\\HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Models\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "Models\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Models\\HomeViewModel.cs",
               "RelativeToolTip": "Models\\HomeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,9 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Proyecto.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Models\\Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Models\\Proyecto.cs",
               "RelativeDocumentMoniker": "Models\\Proyecto.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Models\\Proyecto.cs",
               "RelativeToolTip": "Models\\Proyecto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,9 +256,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Models\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Models\\Persona.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Models\\Persona.cs",
               "RelativeToolTip": "Models\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,9 +268,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\D. SERVIDOR\\ASP.NET Core\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\PortfolioServiciosInterfaces\\PortfolioServiciosInterfaces\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

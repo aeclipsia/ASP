@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "Examen23\\Views\\Home\\Registro.cshtml",
               "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\Registro.cshtml",
               "RelativeToolTip": "Examen23\\Views\\Home\\Registro.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-14T12:26:33.956Z",
               "EditorCaption": ""
@@ -139,8 +139,7 @@
               "RelativeToolTip": "Examen23\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T12:13:12.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T12:13:12.349Z"
             },
             {
               "$type": "Document",
@@ -152,8 +151,7 @@
               "RelativeToolTip": "Examen23\\Controllers\\HomeController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAQwDkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T12:10:50.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T12:10:50.238Z"
             },
             {
               "$type": "Document",
@@ -177,8 +175,7 @@
               "RelativeToolTip": "Examen23\\Servicios\\UsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T11:55:09.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T11:55:09.743Z"
             },
             {
               "$type": "Document",
