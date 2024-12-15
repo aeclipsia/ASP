@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\views\\home\\alumnodetalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\views\\home\\alumnodetalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\views\\home\\profesorvista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\views\\home\\profesorvista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\examen23\\examen23\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4158FA25-0261-4FED-8817-3ABE58BD450E}|Examen23\\Examen23.csproj|solutionrelative:examen23\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Program.cs",
+              "RelativeDocumentMoniker": "Examen23\\Program.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Program.cs",
+              "RelativeToolTip": "Examen23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:32:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfesorVista.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\ProfesorVista.cshtml",
+              "RelativeDocumentMoniker": "Examen23\\Views\\Home\\ProfesorVista.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\ProfesorVista.cshtml",
+              "RelativeToolTip": "Examen23\\Views\\Home\\ProfesorVista.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T12:43:59.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnoDetalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\AlumnoDetalles.cshtml",
+              "RelativeDocumentMoniker": "Examen23\\Views\\Home\\AlumnoDetalles.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\AlumnoDetalles.cshtml",
+              "RelativeToolTip": "Examen23\\Views\\Home\\AlumnoDetalles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T12:43:40.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Examen23\\Views\\Home\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\Registro.cshtml",
+              "RelativeToolTip": "Examen23\\Views\\Home\\Registro.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T12:26:33.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Examen23\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "Examen23\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:50:34.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "Examen23\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Models\\Alumno.cs",
+              "RelativeToolTip": "Examen23\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:53:07.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen23\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Examen23\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T12:13:12.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Examen23\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Examen23\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:10:50.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Examen23\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Examen23\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:09:01.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Examen23\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "Examen23\\Servicios\\UsuarioService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:55:09.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "Examen23\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\Examen23\\Examen23\\Models\\Profesor.cs",
+              "RelativeToolTip": "Examen23\\Models\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:50:07.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

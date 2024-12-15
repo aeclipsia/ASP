@@ -29,3 +29,34 @@ C:\Users\admin\Desktop\ASP\ListadoAlumnos\obj\Debug\net8.0\refint\ListadoAlumnos
 C:\Users\admin\Desktop\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.pdb
 C:\Users\admin\Desktop\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.genruntimeconfig.cache
 C:\Users\admin\Desktop\ASP\ListadoAlumnos\obj\Debug\net8.0\ref\ListadoAlumnos.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\appsettings.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\ListadoAlumnos.staticwebassets.runtime.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\ListadoAlumnos.exe
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\ListadoAlumnos.deps.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\ListadoAlumnos.runtimeconfig.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\ListadoAlumnos.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\bin\Debug\net8.0\ListadoAlumnos.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.AssemblyInfoInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.AssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.RazorAssemblyInfo.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.RazorAssemblyInfo.cs
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.sourcelink.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\staticwebassets\msbuild.ListadoAlumnos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\staticwebassets\msbuild.build.ListadoAlumnos.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ListadoAlumnos.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ListadoAlumnos.props
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\scopedcss\bundle\ListadoAlumnos.styles.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\scopedcss\projectbundle\ListadoAlumnos.bundle.scp.css
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\refint\ListadoAlumnos.dll
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.pdb
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ListadoAlumnos.genruntimeconfig.cache
+C:\Users\aeclipsia\Desktop\School Files\ASP\ListadoAlumnos\obj\Debug\net8.0\ref\ListadoAlumnos.dll

@@ -46,8 +46,8 @@ namespace ListadoAlumnos.Controllers
         [HttpPost]
         public IActionResult Edit(AlumnoModel a)
         {
-
             this.alumnos.GetAlumno(posicionAlumno).Telefono = a.Telefono;
+            this.alumnos.GetAlumno(posicionAlumno).Curso = a.Curso;
             return RedirectToAction("Index");
 
         }

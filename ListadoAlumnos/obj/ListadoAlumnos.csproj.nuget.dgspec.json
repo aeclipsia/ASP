@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj": {}
+    "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj": {
+    "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj",
+        "projectUniqueName": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj",
         "projectName": "ListadoAlumnos",
-        "projectPath": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\ASP\\ListadoAlumnos\\obj\\",
+        "projectPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\ListadoAlumnos\\ListadoAlumnos.csproj",
+        "packagesPath": "C:\\Users\\aeclipsia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\ListadoAlumnos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aeclipsia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -3,5 +3,14 @@
     ViewData["Title"] = "Añadir Alumno";
 }
 
+<nav><a asp-action="Index">ATRÁS</a></nav>
 
-
+@if (Model != null)
+{
+    <div>
+        <p>Dni: @Model.DNI</p>
+        <p>Nombre: @Model.Nombre @Model.Apellidos</p>
+        <p>Telefono: @Model.Telefono</p>
+        <p>Curso: @Model.Curso</p>
+    </div>
+}

@@ -1,0 +1,89 @@
+﻿    .main {
+        display: flex;
+        background: linear-gradient( 145deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.04) );
+        width: 100vw;
+        height: 90vh;
+        backdrop-filter: blur(10px);
+        box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+        position: relative;
+        overflow: hidden;
+        background-color: #2D3E50;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+    } 
+
+.section {
+        flex: 1;
+        padding: 3rem;
+        position: relative;
+    }
+
+    .section:first-child {
+        border-right: 1px solid rgba(176, 190, 197, 0.2);
+    }
+
+    .title {
+        color: #ff5722;
+        font-size: 2rem;
+        margin-bottom: 2.5rem;
+        font-weight: 600;
+        letter-spacing: -0.5px;
+    }
+
+    .form-group {
+        margin-bottom: 1.8rem;
+        position: relative;
+    }
+
+    .form-group label {
+        display: block;
+        margin-bottom: 0.8rem;
+        color: #e0e0e0;
+        font-size: 0.9rem;
+        font-weight: 500;
+        letter-spacing: 0.3px;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 1rem;
+        border: 2px solid rgba(176, 190, 197, 0.2);
+        border-radius: 12px;
+        background-color: rgba(255, 255, 255, 0.03);
+        color: #ffffff;
+        font-size: 1rem;
+        transition: all 0.2s ease;
+    }
+
+    .form-group input:focus {
+        outline: none;
+        border-color: #ff5722;
+        background-color: rgba(255, 87, 34, 0.05);
+        box-shadow: 0 0 0 4px rgba(255, 87, 34, 0.1);
+    }
+
+    .form-group input::placeholder {
+        color: rgba(224, 224, 224, 0.5);
+    }
+
+    button {
+        width: 100%;
+        padding: 1rem;
+        background-color: #ff5722;
+        border: none;
+        border-radius: 12px;
+        color: #ffffff;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        margin-top: 1rem;
+    }
+
+    button:hover {
+        background-color: #ff7043;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(255, 87, 34, 0.2);
+    }
