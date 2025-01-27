@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\repository\\repositoryalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:repository\\repositoryalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\repository\\repositoryciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:repository\\repositoryciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\data\\colegiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:data\\colegiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryCiclo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryCiclo.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryCiclo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryCiclo.cs",
+              "RelativeToolTip": "Repository\\RepositoryCiclo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:56:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Models\\Alumno.cs",
+              "RelativeToolTip": "Models\\Alumno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:49:25.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColegioContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Data\\ColegioContext.cs",
+              "RelativeDocumentMoniker": "Data\\ColegioContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Data\\ColegioContext.cs",
+              "RelativeToolTip": "Data\\ColegioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:48:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T11:48:55.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "Controllers\\AlumnosController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:35:50.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:35:42.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Views\\Alumnos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alumnos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Views\\Alumnos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Alumnos\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T11:46:33.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryAlumnos.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryAlumnos.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryAlumnos.cs",
+              "RelativeToolTip": "Repository\\RepositoryAlumnos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:40:51.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:48:44.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "Controllers\\CursosController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:35:46.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

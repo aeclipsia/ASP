@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\models\\administradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\models\\administradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\models\\ownermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\models\\administradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\models\\administradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\models\\ownermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\models\\ownermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\views\\admin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\views\\admin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\views\\admin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\mechaniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\mechaniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\controllers\\mechaniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\aeclipsia\\desktop\\school files\\asp\\tallerwithlogin\\tallerwithlogin\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|c:\\users\\admin\\desktop\\asp\\tallerwithlogin\\tallerwithlogin\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68CA5091-56A0-4BC4-B3D5-B709CE0672DB}|TallerWithLogin\\TallerWithLogin.csproj|solutionrelative:tallerwithlogin\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -54,150 +58,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 372,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Admin\\Home.cshtml",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Views\\Admin\\Home.cshtml",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Admin\\Home.cshtml",
-              "RelativeToolTip": "TallerWithLogin\\Views\\Admin\\Home.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T12:04:40.671Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Program.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Program.cs",
+              "RelativeToolTip": "TallerWithLogin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:27:31.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MechanicController.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\MechanicController.cs",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Controllers\\MechanicController.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\MechanicController.cs",
-              "RelativeToolTip": "TallerWithLogin\\Controllers\\MechanicController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T12:01:56.303Z",
-              "EditorCaption": ""
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Admin\\Home.cshtml",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Views\\Admin\\Home.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Admin\\Home.cshtml",
+              "RelativeToolTip": "TallerWithLogin\\Views\\Admin\\Home.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T12:04:40.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "OwnerController.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\OwnerController.cs",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Controllers\\OwnerController.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\OwnerController.cs",
-              "RelativeToolTip": "TallerWithLogin\\Controllers\\OwnerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Title": "MechanicController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\MechanicController.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Controllers\\MechanicController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\MechanicController.cs",
+              "RelativeToolTip": "TallerWithLogin\\Controllers\\MechanicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T12:01:36.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OwnerModel.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\OwnerModel.cs",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Models\\OwnerModel.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\OwnerModel.cs",
-              "RelativeToolTip": "TallerWithLogin\\Models\\OwnerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T12:01:30.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T12:01:56.303Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\UserModel.cs",
-              "RelativeToolTip": "TallerWithLogin\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "TallerWithLogin\\Controllers\\OwnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:51:04.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T12:01:36.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuariosService.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Services\\UsuariosService.cs",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Services\\UsuariosService.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Services\\UsuariosService.cs",
-              "RelativeToolTip": "TallerWithLogin\\Services\\UsuariosService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "OwnerModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\OwnerModel.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Models\\OwnerModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\OwnerModel.cs",
+              "RelativeToolTip": "TallerWithLogin\\Models\\OwnerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:49:39.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdministradorModel.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\AdministradorModel.cs",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Models\\AdministradorModel.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\AdministradorModel.cs",
-              "RelativeToolTip": "TallerWithLogin\\Models\\AdministradorModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:48:27.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "TallerWithLogin\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:48:25.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T12:01:30.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\UserModel.cs",
+              "RelativeToolTip": "TallerWithLogin\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:51:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Services\\UsuariosService.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Services\\UsuariosService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Services\\UsuariosService.cs",
+              "RelativeToolTip": "TallerWithLogin\\Services\\UsuariosService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:49:39.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdministradorModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\AdministradorModel.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Models\\AdministradorModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Models\\AdministradorModel.cs",
+              "RelativeToolTip": "TallerWithLogin\\Models\\AdministradorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:48:27.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TallerWithLogin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:48:25.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "TallerWithLogin\\Views\\Home\\Register.cshtml",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Register.cshtml",
               "RelativeToolTip": "TallerWithLogin\\Views\\Home\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T11:31:17.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T11:31:17.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "TallerWithLogin\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "TallerWithLogin\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T11:30:17.099Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "TallerWithLogin\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "TallerWithLogin\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T11:30:17.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TallerWithLogin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\aeclipsia\\Desktop\\School Files\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\TallerWithLogin\\TallerWithLogin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TallerWithLogin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA3wCkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:30:14.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T11:30:14.373Z"
             }
           ]
         }

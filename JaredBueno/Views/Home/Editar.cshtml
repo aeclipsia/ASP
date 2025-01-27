@@ -1,0 +1,37 @@
+﻿@model UsuarioModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<a asp-action="Index" class="btn btn-outline-secondary mb-3">&larr; Back</a>
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card p-4 shadow-sm" style="max-width: 400px; width: 100%;">
+        <h3 class="text-center mb-4">Cambiar contraseña</h3>
+        <form asp-action="CambiarPassword" method="post">
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @foreach (var error in ViewData.ModelState.Values.SelectMany(values => values.Errors))
+                    {
+                        <p>@error.ErrorMessage</p>
+                    }
+                </div>
+            }
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" id="email" class="form-control" name="Email" value="@Model.Email" readonly>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Contraseña</label>
+                <input type="password" id="password" class="form-control" name="Password" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Confirmar contraseña</label>
+                <input type="password" id="password" class="form-control" name="PasswordConfirm" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Cambiar contraseña</button>
+        </form>
+    </div>
+</div>

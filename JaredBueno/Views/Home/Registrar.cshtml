@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container d-flex justify-content-center align-items-center">
+    <div class="card p-4 shadow-sm" style="max-width: 600px; width: 100%;">
+        <a asp-action="Index" class="btn btn-outline-secondary mb-3">&larr; Back</a>
+        <h3 class="text-center mb-4">Registrar</h3>
+        <form asp-action="Registrar" method="post">
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @foreach (var error in ViewData.ModelState.Values.SelectMany(values => values.Errors))
+                    {
+                        <p>@error.ErrorMessage</p>
+                    }
+                </div>
+            }
+            <div class="row row-cols-2">
+                <div class="mb-3">
+                    <label for="usuario" class="form-label">Usuario</label>
+                    <input type="text" id="usuario" class="form-control" name="Usuario" required>
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" id="password" class="form-control" name="Password" required>
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre Completo</label>
+                <input type="text" id="nombre" class="form-control" name="Nombre" required>
+            </div>
+            <div class="mb-3">
+                <label for="email" class="form-label">Correo Electrónico</label>
+                <input type="email" id="email" class="form-control" name="Email" required>
+            </div>
+            <div class="row row-cols-2">
+                <div class="mb-3">
+                    <label for="Ciclo">Ciclo</label>
+                    <select id="Ciclo" class="form-control" required>
+                        <option value="DAW">DAW</option>
+                        <option value="ASIR">ASIR</option>
+                        <option value="Finanzas">Finanzas</option>
+                        <option value="Marketing">Marketing</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="Curso">Curso</label>
+                    <input type="number" id="Curso" name="Curso" class="form-control" min="1" max="2" required />
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="Idiomas">Idiomas</label>
+                <input type="text" id="Idiomas" name="IdiomasString" class="form-control" placeholder="Introduce los idiomas separados por coma" required />
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Registrar</button>
+        </form>
+        <p class="text-center mt-3">Ya estás registrado? <a asp-action="Index" class="text-decoration-none">Login</a></p>
+    </div>
+</div>

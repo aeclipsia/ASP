@@ -3,48 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\services\\repositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:services\\repositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\interfaces\\irepositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:interfaces\\irepositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\interfaces\\irepositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:interfaces\\irepositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\services\\repositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:services\\repositorioalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|solutionrelative:models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE62A6F6-9537-4667-84ED-5E2CD16EBE4F}|P3_Ejercicio5.csproj|c:\\users\\admin\\desktop\\asp\\p3_ejercicio5\\p3_ejercicio5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -68,14 +64,13 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T08:25:14.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:25:14.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "RepositorioAlumnos.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Services\\RepositorioAlumnos.cs",
               "RelativeDocumentMoniker": "Services\\RepositorioAlumnos.cs",
@@ -83,73 +78,59 @@
               "RelativeToolTip": "Services\\RepositorioAlumnos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:25:14.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:25:14.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Models\\Alumno.cs",
               "RelativeDocumentMoniker": "Models\\Alumno.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Models\\Alumno.cs",
               "RelativeToolTip": "Models\\Alumno.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAgAAAAEAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:25:14.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:25:14.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:25:14.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Add.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\Add.cshtml",
               "RelativeToolTip": "Views\\Home\\Add.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABGAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-05T08:25:14.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\Delete.cshtml",
               "RelativeToolTip": "Views\\Home\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAqAAAA",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-05T08:25:14.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "bORRAR.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\bORRAR.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\bORRAR.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\bORRAR.cshtml",
-              "RelativeToolTip": "Views\\Home\\bORRAR.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAA8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T08:25:14.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -157,20 +138,20 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:25:14.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:25:14.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "Views\\Home\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T08:25:14.735Z"
+              "WhenOpened": "2024-12-05T08:25:14.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -186,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IRepositorioAlumnos.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\Interfaces\\IRepositorioAlumnos.cs",
               "RelativeDocumentMoniker": "Interfaces\\IRepositorioAlumnos.cs",
@@ -194,12 +175,11 @@
               "RelativeToolTip": "Interfaces\\IRepositorioAlumnos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:25:14.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:25:14.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "P3_Ejercicio5.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\P3_Ejercicio5\\P3_Ejercicio5.csproj",
               "RelativeDocumentMoniker": "P3_Ejercicio5.csproj",

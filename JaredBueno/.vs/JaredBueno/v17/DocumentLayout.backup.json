@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\views\\home\\alumnodetalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:views\\home\\alumnodetalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\views\\home\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:views\\home\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\interfaces\\iusuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:interfaces\\iusuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\views\\home\\profesorview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:views\\home\\profesorview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\models\\alumnomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:models\\alumnomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\models\\enumeradociclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:models\\enumeradociclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\models\\enumeradoespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:models\\enumeradoespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|c:\\users\\admin\\desktop\\asp\\jaredbueno\\models\\profesormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E9E47B-D6D5-4D7A-952F-17C54BCE9E2E}|JaredBueno.csproj|solutionrelative:models\\profesormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Servicios\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "Servicios\\UsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Servicios\\UsuarioServicio.cs",
+              "RelativeToolTip": "Servicios\\UsuarioServicio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:59:18.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:00:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Home\\Editar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:50:42.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnoDetalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\AlumnoDetalles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AlumnoDetalles.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\AlumnoDetalles.cshtml",
+              "RelativeToolTip": "Views\\Home\\AlumnoDetalles.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:36:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfesorView.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\ProfesorView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProfesorView.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\ProfesorView.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProfesorView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:31:34.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Interfaces\\IUsuarioServicio.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Interfaces\\IUsuarioServicio.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:30:44.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\Registrar.cshtml",
+              "RelativeToolTip": "Views\\Home\\Registrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:07:03.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:01:59.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:01:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlumnoModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\AlumnoModel.cs",
+              "RelativeDocumentMoniker": "Models\\AlumnoModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\AlumnoModel.cs",
+              "RelativeToolTip": "Models\\AlumnoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:45:02.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnumeradoCiclo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\EnumeradoCiclo.cs",
+              "RelativeDocumentMoniker": "Models\\EnumeradoCiclo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\EnumeradoCiclo.cs",
+              "RelativeToolTip": "Models\\EnumeradoCiclo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:44:30.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnumeradoEspecialidad.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\EnumeradoEspecialidad.cs",
+              "RelativeDocumentMoniker": "Models\\EnumeradoEspecialidad.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\EnumeradoEspecialidad.cs",
+              "RelativeToolTip": "Models\\EnumeradoEspecialidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:43:36.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfesorModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\ProfesorModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProfesorModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\JaredBueno\\Models\\ProfesorModel.cs",
+              "RelativeToolTip": "Models\\ProfesorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:43:10.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
