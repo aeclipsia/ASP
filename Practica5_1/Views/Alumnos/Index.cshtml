@@ -1,0 +1,31 @@
+﻿@model AlumnoViewModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<div>
+    <h1>Alumnos de @Model.ciclo</h1>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Curso</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Alumnos c in Model.alumnos)
+            {
+                <tr>
+                    <td>@c.Nombre</td>
+                    <td>@c.Apellidos</td>
+                    <td>@c.Curso</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

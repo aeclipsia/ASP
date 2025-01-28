@@ -1,0 +1,34 @@
+﻿@model List<Ciclos>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h1><a asp-action="Create" class="link-secondary">Nuevo Ciclo</a></h1>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>CODIGO</th>
+                <th>SIGLAS</th>
+                <th>NOMBRE</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Ciclos c in Model)
+            {
+                <tr>
+                    <td>@c.codigo</td>
+                    <td>@c.siglas</td>
+                    <td>@c.nombre</td>
+                    <td>
+                        <a class="btn btn-success" asp-action="Details" asp-route-siglas="@c.siglas"><i class="bi-eye-fill"></i></a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-siglas="@c.siglas"><i class="bi-trash-fill"></i></a>
+                        <a class="btn btn-warning" asp-controller="Alumnos" asp-action="Create" asp-route-siglas="@c.siglas"><i class="bi-person-plus-fill"></i></a>
+                        <a class="btn btn-info" asp-controller="Alumnos" asp-action="Index" asp-route-siglas="@c.siglas"><i class="bi-people-fill"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

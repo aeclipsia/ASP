@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\services\\ciclosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:services\\ciclosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\models\\ciclos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:models\\ciclos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\services\\alumnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:services\\alumnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|c:\\users\\admin\\desktop\\asp\\practica5_1\\interfaces\\iciclosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D133E-6ED8-4492-94C0-4B64865B53B9}|Practica5_1.csproj|solutionrelative:interfaces\\iciclosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Views\\Alumnos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alumnos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Views\\Alumnos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Alumnos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:59:08.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnosService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Services\\AlumnosService.cs",
+              "RelativeDocumentMoniker": "Services\\AlumnosService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Services\\AlumnosService.cs",
+              "RelativeToolTip": "Services\\AlumnosService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:53:57.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "Controllers\\AlumnosController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:53:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:31:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ciclos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Models\\Ciclos.cs",
+              "RelativeDocumentMoniker": "Models\\Ciclos.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Models\\Ciclos.cs",
+              "RelativeToolTip": "Models\\Ciclos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:26:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:09:26.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICiclosService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Interfaces\\ICiclosService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICiclosService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Interfaces\\ICiclosService.cs",
+              "RelativeToolTip": "Interfaces\\ICiclosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:10:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:08:04.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CiclosService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Services\\CiclosService.cs",
+              "RelativeDocumentMoniker": "Services\\CiclosService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica5_1\\Services\\CiclosService.cs",
+              "RelativeToolTip": "Services\\CiclosService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:09:52.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
