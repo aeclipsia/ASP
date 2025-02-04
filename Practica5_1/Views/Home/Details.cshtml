@@ -21,8 +21,7 @@
         <p>Siglas: @Model.siglas</p>
         <p>Nombre: @Model.nombre</p>
         <p>Cursos: @Model.cursos</p>
-        <a asp-controller="Alumnos" asp-action="Index" asp-route-siglas="@Model.siglas">Ver Alumnos</a>
-        <a asp-controller="Cursos" asp-action="Index" asp-route-siglas="@Model.siglas">Ver Cursos</a>
-        <a asp-action="Index">Volver</a>
+        <a class="btn btn-primary col-3 mb-2" asp-controller="Alumnos" asp-action="Index" asp-route-siglas="@Model.siglas">Ver Alumnos</a>
+        <a class="btn btn-primary col-3" asp-controller="Cursos" asp-action="Index" asp-route-siglas="@Model.siglas">Ver Cursos</a>
     </div>
 </div>

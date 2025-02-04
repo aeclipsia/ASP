@@ -74,8 +74,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T12:21:49.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T12:21:49.135Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "Models\\Ciclo.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:19:14.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:19:14.491Z"
             },
             {
               "$type": "Document",
@@ -98,7 +96,7 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAACSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-28T10:06:32.125Z",
               "EditorCaption": ""
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Repository\\RepositoryCiclo.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:56:45.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:56:45.339Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "Models\\Alumno.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:49:25.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:49:25.886Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "Data\\ColegioContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:48:59.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:48:59.419Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T11:48:55.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:48:55.41Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "Controllers\\AlumnosController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAIwBgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:35:50.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:35:50.7Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:35:42.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:35:42.479Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "Views\\Alumnos\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAIBJwDEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T11:46:33.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:46:33.381Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:48:44.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:48:44.783Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "Repository\\RepositoryAlumnos.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAA9wCYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:40:51.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:40:51.688Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "Controllers\\CursosController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:35:46.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T11:35:46.858Z"
             }
           ]
         }
