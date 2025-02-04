@@ -7,6 +7,7 @@ namespace Practica5_1.Models
     {
         [Required]
         [Column("Id")]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Key]
         [Required]
@@ -21,6 +22,12 @@ namespace Practica5_1.Models
         [Required]
         [Column("Ciclo")]
         public string Ciclo { get; set; }
+        [Required]
+        [Column("Telefono")]
+        public string Telefono { get; set; }
+        [Required]
+        [Column("Edad")]
+        public int Edad {  get; set; }
         [Required]
         [Column("Curso")]
         public int Curso { get; set; }

@@ -1,0 +1,42 @@
+﻿@model Ciclos
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a asp-action="Index" class="btn btn-outline-secondary mb-3">&larr; Back</a>
+
+<h1 class="display-5">Añadir nuevo ciclo</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="codigo" class="control-label">Codigo</label>
+                <input asp-for="codigo" class="form-control" />
+                <span asp-validation-for="codigo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="siglas" class="control-label">Siglas</label>
+                <input asp-for="siglas" class="form-control" />
+                <span asp-validation-for="siglas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label">Nombre</label>
+                <input asp-for="nombre" class="form-control" />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cursos" class="control-label">Cursos</label>
+                <input asp-for="cursos" class="form-control" />
+                <span asp-validation-for="cursos" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Añadir Ciclo" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

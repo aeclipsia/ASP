@@ -21,5 +21,17 @@ namespace Practica5_1.Services
         {
             return this._context.ciclos.FirstOrDefault<Ciclos>(c => c.siglas == siglas);
         }
+        public async Task AddCiclo(Ciclos c)
+        {
+            this._context.ciclos.Add(c);
+            await this._context.SaveChangesAsync();
+
+        }
+        public async Task DeleteCiclo(string siglas)
+        {
+            var c = this._context.ciclos.FirstOrDefault<Ciclos>(c => c.siglas == siglas);
+            this._context.ciclos.Remove(c);
+            await this._context.SaveChangesAsync();
+        }
     }
 }
