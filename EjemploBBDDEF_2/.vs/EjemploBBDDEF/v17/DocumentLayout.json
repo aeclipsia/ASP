@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\repository\\repositoryciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:repository\\repositoryciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\models\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:models\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\repository\\repositoryalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:repository\\repositoryalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\repository\\repositoryciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:repository\\repositoryciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\data\\colegiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:data\\colegiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\models\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:models\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\repository\\repositoryalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:repository\\repositoryalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|c:\\users\\admin\\desktop\\asp\\ejemplobbddef_2\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1D40D8-14A2-4EEA-972C-759C13625938}|EjemploBBDDEF.csproj|solutionrelative:controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Ciclo.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Models\\Ciclo.cs",
               "RelativeDocumentMoniker": "Models\\Ciclo.cs",
@@ -86,11 +86,12 @@
               "RelativeToolTip": "Models\\Ciclo.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:19:14.491Z"
+              "WhenOpened": "2025-01-28T10:19:14.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -103,19 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RepositoryCiclo.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryCiclo.cs",
               "RelativeDocumentMoniker": "Repository\\RepositoryCiclo.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryCiclo.cs",
               "RelativeToolTip": "Repository\\RepositoryCiclo.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:56:45.339Z"
+              "WhenOpened": "2025-01-27T11:56:45.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Models\\Alumno.cs",
               "RelativeDocumentMoniker": "Models\\Alumno.cs",
@@ -127,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ColegioContext.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Data\\ColegioContext.cs",
               "RelativeDocumentMoniker": "Data\\ColegioContext.cs",
@@ -139,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -151,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AlumnosController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\AlumnosController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlumnosController.cs",
@@ -163,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -175,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Views\\Alumnos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Alumnos\\Index.cshtml",
@@ -187,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -199,15 +201,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "RepositoryAlumnos.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryAlumnos.cs",
               "RelativeDocumentMoniker": "Repository\\RepositoryAlumnos.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\EjemploBBDDEF_2\\Repository\\RepositoryAlumnos.cs",
               "RelativeToolTip": "Repository\\RepositoryAlumnos.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wCYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T11:40:51.688Z"
+              "WhenOpened": "2025-01-27T11:40:51.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

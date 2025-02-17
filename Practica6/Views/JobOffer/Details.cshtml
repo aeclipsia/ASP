@@ -1,0 +1,60 @@
+﻿@using Practica6.Helpers
+@model List<JobOffer>
+
+@{
+    ViewData["Title"] = "Ofertas de trabajo";
+    string email = Context.Session.GetObject<User>("User").Email;
+    int userRole = (int) Context.Session.GetObject<User>("User").UserType;
+}
+
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center">
+        <h2>@ViewData["Title"]</h2>
+        <span class="text-muted">Sesión iniciada como: @email</span>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Identificador</th>
+                    <th>Nombre</th>
+                    <th>Empresa</th>
+                    <th>Descripción</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var jobOffer in Model)
+                {
+                    <tr>
+                        <td>@jobOffer.Id</td>
+                        <td>@jobOffer.Name</td>
+                        <td>@jobOffer.Company</td>
+                        <td>@jobOffer.Description</td>
+                        <td>
+                            @if (userRole == 0)
+                            {
+                                <a href="@Url.Action("StudentsJob", "Application", new { id = jobOffer.Id })" class="btn btn-info btn-sm">Ver Alumnos</a>
+                                <a href="@Url.Action("Delete", "Application", new { id = jobOffer.Id })" class="btn btn-danger btn-sm">Eliminar</a>
+                            }
+                            else 
+                            {
+                                <a href="@Url.Action("Register", "Application", new { id = jobOffer.Id })" class="btn btn-info btn-sm">Registrar</a>
+                            }
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+       
+    }
+    else
+    {
+        <p>No hay ofertas disponibles para esta categoría.</p>
+    }
+    <br />
+    <a href="@Url.Action("Logout", "Home")" class="btn btn-secondary btn-sm">Cerrar Sesión</a>
+</div>

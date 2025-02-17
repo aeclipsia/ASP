@@ -1,0 +1,93 @@
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.AssemblyInfo.cs
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.staticwebassets.runtime.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.exe
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.deps.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.runtimeconfig.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.dll
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.pdb
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.EjemploSesión_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.build.EjemploSesión_1.props
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EjemploSesión_1.props
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EjemploSesión_1.props
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\scopedcss\bundle\EjemploSesión_1.styles.css
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\scopedcss\projectbundle\EjemploSesión_1.bundle.scp.css
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.csproj.CopyComplete
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.dll
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\refint\EjemploSesión_1.dll
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.pdb
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.genruntimeconfig.cache
+C:\Users\admin\Desktop\ASPNETCOREPRUEBAS\EjemploSesión_1\obj\Debug\net8.0\ref\EjemploSesión_1.dll
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.AssemblyInfo.cs
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\scopedcss\bundle\EjemploSesión_1.styles.css
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\scopedcss\projectbundle\EjemploSesión_1.bundle.scp.css
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.EjemploSesión_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.EjemploSesión_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.build.EjemploSesión_1.props
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EjemploSesión_1.props
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EjemploSesión_1.props
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.dll
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\refint\EjemploSesión_1.dll
+C:\Users\USER\OneDrive - INSTITUTO HIJAS DE MARIA AUXILIADORA\COLE MÍO\MATERIAS\DAW2º(Desarrollo Aplicaciones Web)\3. .NET\ASP.NET Core\Ejemplos\11. Sesiones\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.pdb
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.staticwebassets.runtime.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.staticwebassets.endpoints.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.exe
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.deps.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.runtimeconfig.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.dll
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\EjemploSesión_1.pdb
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.AssemblyInfo.cs
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\scopedcss\bundle\EjemploSesión_1.styles.css
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\scopedcss\projectbundle\EjemploSesión_1.bundle.scp.css
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.EjemploSesión_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.EjemploSesión_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.build.EjemploSesión_1.props
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EjemploSesión_1.props
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EjemploSesión_1.props
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploS.166A00A6.Up2Date
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.dll
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\refint\EjemploSesión_1.dll
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.pdb
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\EjemploSesión_1.genruntimeconfig.cache
+C:\Users\USER\Desktop\CORENET\EjemploSesión_1\obj\Debug\net8.0\ref\EjemploSesión_1.dll

@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\helpers\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:helpers\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\helpers\\cifrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:helpers\\cifrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\data\\bolsacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:data\\bolsacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|c:\\users\\admin\\desktop\\asp\\bolsatrabajo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1263FFB-407F-4C0F-8239-2494DD6FC256}|BolsaTrabajo.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Views\\Home\\Categories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Categories.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Views\\Home\\Categories.cshtml",
+              "RelativeToolTip": "Views\\Home\\Categories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:02:51.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:57:53.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:54:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cifrado.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Helpers\\Cifrado.cs",
+              "RelativeDocumentMoniker": "Helpers\\Cifrado.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Helpers\\Cifrado.cs",
+              "RelativeToolTip": "Helpers\\Cifrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:47:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:05:43.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:01:15.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BolsaContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Data\\BolsaContext.cs",
+              "RelativeDocumentMoniker": "Data\\BolsaContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Data\\BolsaContext.cs",
+              "RelativeToolTip": "Data\\BolsaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:53:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Helpers\\SessionExtension.cs",
+              "RelativeDocumentMoniker": "Helpers\\SessionExtension.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Helpers\\SessionExtension.cs",
+              "RelativeToolTip": "Helpers\\SessionExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:59:17.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:47:03.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T11:19:31.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T11:45:25.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\BolsaTrabajo\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:32:09.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<hr />
+<div class="row align-middle">
+    <div class="col-6 border-end border-1">
+    <form asp-action="Login" method="post">
+        <h1>Accede con tu usuario</h1>
+        <input class="form-control mb-3" type="text" name="email" placeholder="Email"/>
+        <input class="form-control mb-2" type="text" name="password" placeholder="Password" />
+        <input type="submit" class="btn btn-success" value="Acceder"/>
+    </form>
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+</div>
+<div class="col-6">
+    <form asp-action="Register" method="post">
+        <h1>Regístrate</h1>
+        <input class="form-control mb-3" type="text" name="Name" placeholder="Nombre y Apellidos" />
+        <input class="form-control mb-3" type="text" name="Dni" placeholder="DNI" />
+        <input class="form-control mb-3" type="email" name="Email" placeholder="Email" />
+        <input class="form-control" type="password" name="Password" placeholder="Password" />
+        <small id="passwordHelp" class="form-text text-muted mb-3">La contraseña debe tener entre 8 y 16 carácteres</small>
+        <br />
+        <select name="Role" class="form-select mb-2">
+            <option value="0">Administrador</option>
+            <option value="1">Estudiante</option>
+        </select>
+        <input type="submit" class="btn btn-success" value="Registrar" />
+    </form>
+</div>
+</div>
