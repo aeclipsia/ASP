@@ -13,6 +13,8 @@ builder.Services.AddDbContext<BolsaContext>(
 );
 
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+builder.Services.AddScoped<IOfertaService, OfertaService>();
 
 builder.Services.AddSession(options =>
 {

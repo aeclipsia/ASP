@@ -8,10 +8,12 @@ namespace BolsaTrabajo.Controllers
     public class HomeController : Controller
     {
         private readonly IUserService userService;
+        private readonly ICategoriaService categoriaService;
 
-        public HomeController(IUserService userService)
+        public HomeController(IUserService userService,ICategoriaService categoriaService)
         {
             this.userService = userService;
+            this.categoriaService = categoriaService;
         }
 
         public IActionResult Index()
@@ -73,9 +75,10 @@ namespace BolsaTrabajo.Controllers
             return RedirectToAction("Index");
         }
 
-        public IActionResult Categories()
+        public async Task<IActionResult> Categories()
         {
-            return View();
+            List<Categoria> categorias = await categoriaService.GetCategorias();
+            return View(categorias);
         }
     }
 }

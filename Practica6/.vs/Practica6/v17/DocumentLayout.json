@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A608EB6A-0CE7-4859-A5D9-C3F0F57B069D}|Practica6.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A608EB6A-0CE7-4859-A5D9-C3F0F57B069D}|Practica6.csproj|c:\\users\\admin\\desktop\\asp\\practica6\\controllers\\joboffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608EB6A-0CE7-4859-A5D9-C3F0F57B069D}|Practica6.csproj|solutionrelative:controllers\\joboffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608EB6A-0CE7-4859-A5D9-C3F0F57B069D}|Practica6.csproj|c:\\users\\admin\\desktop\\asp\\practica6\\helpers\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608EB6A-0CE7-4859-A5D9-C3F0F57B069D}|Practica6.csproj|solutionrelative:helpers\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A608EB6A-0CE7-4859-A5D9-C3F0F57B069D}|Practica6.csproj|c:\\users\\admin\\desktop\\asp\\practica6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A608EB6A-0CE7-4859-A5D9-C3F0F57B069D}|Practica6.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,8 +37,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\Helpers\\SessionExtension.cs",
+              "RelativeDocumentMoniker": "Helpers\\SessionExtension.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\Helpers\\SessionExtension.cs",
+              "RelativeToolTip": "Helpers\\SessionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:38:03.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobOfferController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\Controllers\\JobOfferController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobOfferController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\Controllers\\JobOfferController.cs",
+              "RelativeToolTip": "Controllers\\JobOfferController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:23:45.634Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -39,14 +73,14 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-17T12:51:59.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMIN_DESKTOP_ASP_BOLSATRABAJO_DATA_BOLSATRABAJO.MDF/True/SqlTable/dbo.Users.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMIN_DESKTOP_ASP_BOLSATRABAJO_DATA_BOLSATRABAJO.MDF/True/SqlTable/dbo.Users.sql",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -67,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Students.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\Views\\Home\\Students.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Students.cshtml",
@@ -79,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ASP\\Practica6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
